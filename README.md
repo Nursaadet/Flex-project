@@ -15,9 +15,6 @@ Project aims to create the same of given page (home furnishing page).
 
 ![Home Furnishing Project](./images/home.gif)
 
-## Objective
-
-Build a page that is functionally similar to this: [Home Furnishing Project](https://nursaadet.github.io/Flex-project/)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -52,10 +49,3 @@ Build a page that is functionally similar to this: [Home Furnishing Project](htt
 ## Notes
 
 - You can use HTML,and CSS to complete this project.
-
-## Resources
-
--  [Images](./images)
-
-
-
