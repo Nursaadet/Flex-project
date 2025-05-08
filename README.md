@@ -1,7 +1,7 @@
 
 ## Expected Outcome
 
-(./images/home.gif)
+(./flexproject./images/home.gif)
 
 
 ### At the end of the project, following topics are to be covered;
