@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-## Project-003 : Home Furnishing Page (HC-03)
+##  Home Furnishing Page 
 
 ## Description
 Project aims to create the same of given page (home furnishing page).
@@ -27,7 +27,7 @@ Project aims to create the same of given page (home furnishing page).
 
 ## Objective
 
-Build a page that is functionally similar to this: [Home Furnishing Project](https://nursaadet.github.io/home-furnishing/)
+Build a page that is functionally similar to this: [Home Furnishing Project](https://nursaadet.github.io/flex-project/)
 
 ### At the end of the project, following topics are to be covered;
 
