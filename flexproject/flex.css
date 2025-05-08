@@ -11,11 +11,14 @@ body {
 ul {
   background-color: rebeccapurple;
   list-style-type: none;
+  /* List-style-type, HTML'de listelerin nasıl görüneceğini belirlemek için kullanılan bir özelliktir */
   /* height: 50vh; */
   padding: 1rem 0;
   display: flex;
   flex-direction: row;
+  /* flex-direction alt (child) elementlerin (item) yönünü belirlemek için kullanılır. Özellik, varsayılan olarak (row) yerleşimi yatayda gerçekleştirir. Özellik ayrıca farklı davranışlar için farklı seçenekler sunmaktadır. row=sıra */
   flex-wrap: wrap;
+   /* flex-wrap CSS özelliği bir esnek kutu içersindeki öğelerin ana-eksende birden fazla satır üzerine sarılıp sarılmayacağını ayarlamak için kullanılır. */ 
   gap: 1rem;
   justify-content: center;
   align-items: center;
@@ -163,6 +166,7 @@ ul li {
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
+    /* flex-wrap CSS özelliği bir esnek kutu içersindeki öğelerin ana-eksende birden fazla satır üzerine sarılıp sarılmayacağını ayarlamak için kullanılır. */
     justify-content: space-between;
 
   }
